@@ -1,0 +1,14 @@
+
+<link rel="stylesheet" hfref="css.style">
+body{
+background-color:blue;
+}
+h1 text-align:center;
+.right{
+width:50%;
+float: right;
+}
+.left{ 
+width:50%;
+float: left;
+}
